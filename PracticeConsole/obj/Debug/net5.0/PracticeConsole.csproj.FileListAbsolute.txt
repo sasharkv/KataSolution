@@ -1,0 +1,16 @@
+C:\Users\Sasha\OneDrive\Documents\CSharpPractice\PracticeConsole\bin\Debug\net5.0\PracticeConsole.exe
+C:\Users\Sasha\OneDrive\Documents\CSharpPractice\PracticeConsole\bin\Debug\net5.0\PracticeConsole.deps.json
+C:\Users\Sasha\OneDrive\Documents\CSharpPractice\PracticeConsole\bin\Debug\net5.0\PracticeConsole.runtimeconfig.json
+C:\Users\Sasha\OneDrive\Documents\CSharpPractice\PracticeConsole\bin\Debug\net5.0\PracticeConsole.runtimeconfig.dev.json
+C:\Users\Sasha\OneDrive\Documents\CSharpPractice\PracticeConsole\bin\Debug\net5.0\PracticeConsole.dll
+C:\Users\Sasha\OneDrive\Documents\CSharpPractice\PracticeConsole\bin\Debug\net5.0\ref\PracticeConsole.dll
+C:\Users\Sasha\OneDrive\Documents\CSharpPractice\PracticeConsole\bin\Debug\net5.0\PracticeConsole.pdb
+C:\Users\Sasha\OneDrive\Documents\CSharpPractice\PracticeConsole\obj\Debug\net5.0\PracticeConsole.csproj.AssemblyReference.cache
+C:\Users\Sasha\OneDrive\Documents\CSharpPractice\PracticeConsole\obj\Debug\net5.0\PracticeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasha\OneDrive\Documents\CSharpPractice\PracticeConsole\obj\Debug\net5.0\PracticeConsole.AssemblyInfoInputs.cache
+C:\Users\Sasha\OneDrive\Documents\CSharpPractice\PracticeConsole\obj\Debug\net5.0\PracticeConsole.AssemblyInfo.cs
+C:\Users\Sasha\OneDrive\Documents\CSharpPractice\PracticeConsole\obj\Debug\net5.0\PracticeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\OneDrive\Documents\CSharpPractice\PracticeConsole\obj\Debug\net5.0\PracticeConsole.dll
+C:\Users\Sasha\OneDrive\Documents\CSharpPractice\PracticeConsole\obj\Debug\net5.0\ref\PracticeConsole.dll
+C:\Users\Sasha\OneDrive\Documents\CSharpPractice\PracticeConsole\obj\Debug\net5.0\PracticeConsole.pdb
+C:\Users\Sasha\OneDrive\Documents\CSharpPractice\PracticeConsole\obj\Debug\net5.0\PracticeConsole.genruntimeconfig.cache
