@@ -1,5 +1,5 @@
-# KataSolution
-My solution for a CodeWars Kata in C#
+# KataSolution:  string to camel case
+My solution for a CodeWars Kata in C# 
 
 "Instructions:
 
